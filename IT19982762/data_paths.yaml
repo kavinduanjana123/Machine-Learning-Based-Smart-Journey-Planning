@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/RP024-01/train
+val: /content/drive/MyDrive/RP024-01/val
+
+nc: 5
+
+names: ["bulathwita","dodol","hakuru","kiribath","pani_walalu"]
+

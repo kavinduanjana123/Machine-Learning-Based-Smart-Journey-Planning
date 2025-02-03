@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "bulathwita"
+    },
+    {
+      "id": 1,
+      "name": "dodol"
+    },
+    {
+      "id": 2,
+      "name": "hakuru"
+    },
+    {
+      "id": 3,
+      "name": "kiribath"
+    },
+    {
+      "id": 4,
+      "name": "pani_walalu"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
